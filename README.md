@@ -1,10 +1,11 @@
 # algorithms
 
-1. sortA
+1. sort.py
    - selectionSort
    - insertionSort
    - bubbleSort
    - quickSort
    - mergeSort
 
-2. 
+2. fft_iterative.py
+3. fft_recursive.py
