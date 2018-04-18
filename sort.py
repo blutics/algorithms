@@ -101,3 +101,4 @@ def mergeSort(x):
     else:
         c+=a
     return c
+
